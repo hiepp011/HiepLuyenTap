@@ -1,6 +1,6 @@
 package model;
 
-public class DongCo {
+public class DongCo implements Cloneable {
 	private String loaiDongCo;
 	private double congXuat;
 	
